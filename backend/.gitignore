@@ -1,4 +1,8 @@
-
-
 # env files
 .env
+
+# data
+data/
+
+# python
+__pycache__

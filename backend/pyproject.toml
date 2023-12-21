@@ -11,6 +11,9 @@ Django = "^5.0"
 jupyter = "^1.0.0"
 pandas = "^2.1.4"
 numpy = "^1.26.2"
+dj-database-url = "^2.1.0"
+psycopg = "^3.1.16"
+python-dotenv = "^1.0.0"
 
 [tool.poetry.group.dev.dependencies]
 flake8 = "^6.1.0"
