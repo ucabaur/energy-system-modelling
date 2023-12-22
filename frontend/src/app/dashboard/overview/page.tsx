@@ -1,4 +1,5 @@
 import { Metadata } from "next";
+import { OverviewMap } from "./components/OverviewMap";
 
 export const metadata: Metadata = {
   title: "Energy Sim | Overview",
@@ -6,5 +7,5 @@ export const metadata: Metadata = {
 };
 
 export default function OverviewPage() {
-  return <><p>Hello</p></>;
+  return <OverviewMap />
 }
