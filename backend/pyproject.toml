@@ -18,6 +18,7 @@ django-extensions = "^3.2.3"
 werkzeug = "^3.0.1"
 djangorestframework = "^3.14.0"
 django-filter = "^23.5"
+django-import-export = "^3.3.5"
 
 [tool.poetry.group.dev.dependencies]
 flake8 = "^6.1.0"
